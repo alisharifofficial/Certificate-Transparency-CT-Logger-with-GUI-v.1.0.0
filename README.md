@@ -12,4 +12,4 @@ pandas (BSD 3-Clause License) Faker (MIT License) OpenPyXL (MIT License)
 
 
 
-Certificate-Transparency-CT-Logger-v.1.0.0
+Certificate Transparency CT Logger With GUI v.1.0.0
